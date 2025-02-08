@@ -3,3 +3,6 @@
 - 언어와 프레임워크만 다른 결과 보는 재미?
 
 - 흠 규칙은 Redis 같은거 없이 하기 그런게 있으면 좋겠군요
+- no-cache
+- presistent-connections 가능 HTTP1.1만 사용.
+- Restful-API 규격 준수
