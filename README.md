@@ -6,3 +6,6 @@
 - no-cache
 - presistent-connections 가능 HTTP1.1만 사용.
 - Restful-API 규격 준수
+- 서버 static server 자원을 가진 서버만 가능
+- GCP AWS KAKAO Burstable instance 금지
+- 서버자원 1코어 CPU 1GB RAM SSD도 같아야 하긴하는데 NCP 같은 서버를 쓰면 괜찮을지도
